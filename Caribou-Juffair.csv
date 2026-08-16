@@ -1,0 +1,64 @@
+Caribou Coffee Juffair - Review Evaluation Dataset,,,,,,,,
+60 manually curated paraphrases for the Hugging Face pretrained-model lab,,,,,,,,
+,,,,,,,,
+Review_ID,Review_Text,Sentiment,Topic,Evaluation_Rating,Language,Use_for_Zero_Shot,Source_Type,Source_URL
+1,The iced latte was smooth and tasted fresh.,Positive,Drink Quality,5,English,Yes,Paraphrased evaluation sample,https://www.google.com/maps/place/Caribou+Coffee+-+Juffair/
+2,"My cappuccino was warm, balanced, and not too sweet.",Positive,Drink Quality,5,English,Yes,Paraphrased evaluation sample,https://www.google.com/maps/place/Caribou+Coffee+-+Juffair/
+3,"The coffee was okay, but nothing really stood out.",Neutral,Drink Quality,3,English,Yes,Paraphrased evaluation sample,https://www.google.com/maps/place/Caribou+Coffee+-+Juffair/
+4,The drink tasted weaker than I expected.,Negative,Drink Quality,2,English,Yes,Paraphrased evaluation sample,https://www.google.com/maps/place/Caribou+Coffee+-+Juffair/
+5,I liked the French press and would order it again.,Positive,Drink Quality,5,English,Yes,Paraphrased evaluation sample,https://www.google.com/maps/place/Caribou+Coffee+-+Juffair/
+6,"The cooler looked good, although it was a little too sweet for me.",Neutral,Drink Quality,3,English,Yes,Paraphrased evaluation sample,https://www.google.com/maps/place/Caribou+Coffee+-+Juffair/
+7,The barista was friendly and explained the drink choices clearly.,Positive,Service,5,English,Yes,Paraphrased evaluation sample,https://www.google.com/maps/place/Caribou+Coffee+-+Juffair/
+8,Service was quick even though the cafe was busy.,Positive,Service,4,English,Yes,Paraphrased evaluation sample,https://www.google.com/maps/place/Caribou+Coffee+-+Juffair/
+9,"The staff were polite, but the order took longer than expected.",Neutral,Service,3,English,Yes,Paraphrased evaluation sample,https://www.google.com/maps/place/Caribou+Coffee+-+Juffair/
+10,My order was mixed up and I had to explain it twice.,Negative,Service,2,English,Yes,Paraphrased evaluation sample,https://www.google.com/maps/place/Caribou+Coffee+-+Juffair/
+11,The team welcomed us warmly and checked the order before serving it.,Positive,Service,5,English,Yes,Paraphrased evaluation sample,https://www.google.com/maps/place/Caribou+Coffee+-+Juffair/
+12,The cashier seemed rushed and did not answer my question properly.,Negative,Service,2,English,Yes,Paraphrased evaluation sample,https://www.google.com/maps/place/Caribou+Coffee+-+Juffair/
+13,The upstairs seating was calm and comfortable for studying.,Positive,Atmosphere,5,English,Yes,Paraphrased evaluation sample,https://www.google.com/maps/place/Caribou+Coffee+-+Juffair/
+14,It had a cozy feeling and enough background noise to work.,Positive,Atmosphere,5,English,Yes,Paraphrased evaluation sample,https://www.google.com/maps/place/Caribou+Coffee+-+Juffair/
+15,"The cafe was busy and lively, which may suit some people more than others.",Neutral,Atmosphere,3,English,Yes,Paraphrased evaluation sample,https://www.google.com/maps/place/Caribou+Coffee+-+Juffair/
+16,The downstairs lights were too bright for reading comfortably.,Negative,Atmosphere,2,English,Yes,Paraphrased evaluation sample,https://www.google.com/maps/place/Caribou+Coffee+-+Juffair/
+17,I enjoyed sitting outside in the evening.,Positive,Atmosphere,4,English,Yes,Paraphrased evaluation sample,https://www.google.com/maps/place/Caribou+Coffee+-+Juffair/
+18,"The music was fine, but the room felt crowded at peak time.",Neutral,Atmosphere,3,English,Yes,Paraphrased evaluation sample,https://www.google.com/maps/place/Caribou+Coffee+-+Juffair/
+19,The coffee was reasonably priced for the size.,Positive,Price,4,English,Yes,Paraphrased evaluation sample,https://www.google.com/maps/place/Caribou+Coffee+-+Juffair/
+20,The breakfast offer felt like good value.,Positive,Price,4,English,Yes,Paraphrased evaluation sample,https://www.google.com/maps/place/Caribou+Coffee+-+Juffair/
+21,Prices were similar to other coffee shops in Juffair.,Neutral,Price,3,English,Yes,Paraphrased evaluation sample,https://www.google.com/maps/place/Caribou+Coffee+-+Juffair/
+22,I expected a larger drink for the amount I paid.,Negative,Price,2,English,Yes,Paraphrased evaluation sample,https://www.google.com/maps/place/Caribou+Coffee+-+Juffair/
+23,The total bill was acceptable for two drinks and a snack.,Neutral,Price,3,English,Yes,Paraphrased evaluation sample,https://www.google.com/maps/place/Caribou+Coffee+-+Juffair/
+24,"The cake was nice, but the price felt a little high.",Neutral,Price,3,English,Yes,Paraphrased evaluation sample,https://www.google.com/maps/place/Caribou+Coffee+-+Juffair/
+25,The tables were clean and the seating area looked organised.,Positive,Cleanliness,5,English,Yes,Paraphrased evaluation sample,https://www.google.com/maps/place/Caribou+Coffee+-+Juffair/
+26,The cups and counter looked neat and well maintained.,Positive,Cleanliness,4,English,Yes,Paraphrased evaluation sample,https://www.google.com/maps/place/Caribou+Coffee+-+Juffair/
+27,The cafe was generally clean during my visit.,Positive,Cleanliness,4,English,Yes,Paraphrased evaluation sample,https://www.google.com/maps/place/Caribou+Coffee+-+Juffair/
+28,A few tables still had empty cups when we arrived.,Negative,Cleanliness,2,English,Yes,Paraphrased evaluation sample,https://www.google.com/maps/place/Caribou+Coffee+-+Juffair/
+29,"The upstairs area was tidy, although the stairs needed attention.",Neutral,Cleanliness,3,English,Yes,Paraphrased evaluation sample,https://www.google.com/maps/place/Caribou+Coffee+-+Juffair/
+30,The table was sticky and had to be wiped again.,Negative,Cleanliness,1,English,Yes,Paraphrased evaluation sample,https://www.google.com/maps/place/Caribou+Coffee+-+Juffair/
+31,The branch is easy to reach on Al Shabab Avenue.,Positive,Location,4,English,Yes,Paraphrased evaluation sample,https://www.google.com/maps/place/Caribou+Coffee+-+Juffair/
+32,The Juffair location is convenient when meeting friends nearby.,Positive,Location,5,English,Yes,Paraphrased evaluation sample,https://www.google.com/maps/place/Caribou+Coffee+-+Juffair/
+33,"The location is central, but parking can take some time.",Neutral,Location,3,English,Yes,Paraphrased evaluation sample,https://www.google.com/maps/place/Caribou+Coffee+-+Juffair/
+34,Finding a parking space near the cafe was frustrating.,Negative,Location,2,English,Yes,Paraphrased evaluation sample,https://www.google.com/maps/place/Caribou+Coffee+-+Juffair/
+35,It is a useful stop when I am already in the Juffair area.,Positive,Location,4,English,Yes,Paraphrased evaluation sample,https://www.google.com/maps/place/Caribou+Coffee+-+Juffair/
+36,"The cafe is visible from the road, although the entrance can be missed.",Neutral,Location,3,English,Yes,Paraphrased evaluation sample,https://www.google.com/maps/place/Caribou+Coffee+-+Juffair/
+37,My takeaway order was ready in only a few minutes.,Positive,Waiting Time,5,English,Yes,Paraphrased evaluation sample,https://www.google.com/maps/place/Caribou+Coffee+-+Juffair/
+38,The queue moved quickly and I received my drink on time.,Positive,Waiting Time,4,English,Yes,Paraphrased evaluation sample,https://www.google.com/maps/place/Caribou+Coffee+-+Juffair/
+39,"I waited around ten minutes, which was acceptable for a busy evening.",Neutral,Waiting Time,3,English,Yes,Paraphrased evaluation sample,https://www.google.com/maps/place/Caribou+Coffee+-+Juffair/
+40,The drink took almost half an hour to arrive.,Negative,Waiting Time,1,English,Yes,Paraphrased evaluation sample,https://www.google.com/maps/place/Caribou+Coffee+-+Juffair/
+41,"There was a short delay, but the staff apologised.",Neutral,Waiting Time,3,English,Yes,Paraphrased evaluation sample,https://www.google.com/maps/place/Caribou+Coffee+-+Juffair/
+42,"Only one counter seemed open, so the line moved slowly.",Negative,Waiting Time,2,English,Yes,Paraphrased evaluation sample,https://www.google.com/maps/place/Caribou+Coffee+-+Juffair/
+43,The hot chocolate was rich without being too heavy.,Positive,Drink Quality,5,English,No,Paraphrased evaluation sample,https://www.google.com/maps/place/Caribou+Coffee+-+Juffair/
+44,The espresso tasted burnt on this visit.,Negative,Drink Quality,1,English,No,Paraphrased evaluation sample,https://www.google.com/maps/place/Caribou+Coffee+-+Juffair/
+45,"My mocha was fine, just sweeter than I normally prefer.",Neutral,Drink Quality,3,English,No,Paraphrased evaluation sample,https://www.google.com/maps/place/Caribou+Coffee+-+Juffair/
+46,"One employee remembered my usual order, which was a nice touch.",Positive,Service,5,English,No,Paraphrased evaluation sample,https://www.google.com/maps/place/Caribou+Coffee+-+Juffair/
+47,Nobody called my name when the drink was ready.,Negative,Service,2,English,No,Paraphrased evaluation sample,https://www.google.com/maps/place/Caribou+Coffee+-+Juffair/
+48,The service was normal and there were no problems.,Neutral,Service,3,English,No,Paraphrased evaluation sample,https://www.google.com/maps/place/Caribou+Coffee+-+Juffair/
+49,The free Wi-Fi and quiet corner made it easy to finish some work.,Positive,Atmosphere,5,English,No,Paraphrased evaluation sample,https://www.google.com/maps/place/Caribou+Coffee+-+Juffair/
+50,The air conditioning felt too cold upstairs.,Negative,Atmosphere,2,English,No,Paraphrased evaluation sample,https://www.google.com/maps/place/Caribou+Coffee+-+Juffair/
+51,"The seating was comfortable, though the music was louder than usual.",Neutral,Atmosphere,3,English,No,Paraphrased evaluation sample,https://www.google.com/maps/place/Caribou+Coffee+-+Juffair/
+52,The price was fair compared with nearby cafes.,Positive,Price,4,English,No,Paraphrased evaluation sample,https://www.google.com/maps/place/Caribou+Coffee+-+Juffair/
+53,Paying extra for the alternative milk made the drink expensive.,Negative,Price,2,English,No,Paraphrased evaluation sample,https://www.google.com/maps/place/Caribou+Coffee+-+Juffair/
+54,The pastry price was average for this area.,Neutral,Price,3,English,No,Paraphrased evaluation sample,https://www.google.com/maps/place/Caribou+Coffee+-+Juffair/
+55,The washroom was clean when I visited in the morning.,Positive,Cleanliness,4,English,No,Paraphrased evaluation sample,https://www.google.com/maps/place/Caribou+Coffee+-+Juffair/
+56,The bin near the entrance was full.,Negative,Cleanliness,2,English,No,Paraphrased evaluation sample,https://www.google.com/maps/place/Caribou+Coffee+-+Juffair/
+57,"Most areas were clean, with only a few crumbs on our table.",Neutral,Cleanliness,3,English,No,Paraphrased evaluation sample,https://www.google.com/maps/place/Caribou+Coffee+-+Juffair/
+58,The branch is close to many restaurants and apartments in Juffair.,Positive,Location,4,English,No,Paraphrased evaluation sample,https://www.google.com/maps/place/Caribou+Coffee+-+Juffair/
+59,Traffic around Al Shabab Avenue made the visit less convenient.,Negative,Location,2,English,No,Paraphrased evaluation sample,https://www.google.com/maps/place/Caribou+Coffee+-+Juffair/
+60,The order was prepared at a normal speed for lunchtime.,Neutral,Waiting Time,3,English,No,Paraphrased evaluation sample,https://www.google.com/maps/place/Caribou+Coffee+-+Juffair/
